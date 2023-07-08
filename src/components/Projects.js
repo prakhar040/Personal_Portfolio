@@ -24,8 +24,8 @@ const Projects = () => {
             id: 3,
             name: "Personal Portfolio",
             src: image3,
-            hrefLive: "",
-            hrefCode: "",
+            hrefLive: "https://personal-portfolio-bice-one-45.vercel.app/",
+            hrefCode: "https://github.com/prakhar040/Personal_Portfolio",
           },
           {
             id: 4,
@@ -34,18 +34,18 @@ const Projects = () => {
             hrefLive: "https://prakhar040.github.io/Simon-Game-Challenge/",
             hrefCode: "https://github.com/prakhar040/Simon-Game-Challenge",
           },
-          {
-          id: 5,
-          name: "",
-          hrefLive: "",
-          hrefCode: "",
-        },
-        {
-          id: 6,
-          name: "",
-          hrefLive: "",
-          hrefCode: "",
-        },
+        //   {
+        //   id: 5,
+        //   name: "",
+        //   hrefLive: "",
+        //   hrefCode: "",
+        // },
+        // {
+        //   id: 6,
+        //   name: "",
+        //   hrefLive: "",
+        //   hrefCode: "",
+        // },
           
         ];
       
