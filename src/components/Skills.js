@@ -10,7 +10,7 @@ import image12 from "../assets/image12.png";
 import image13 from "../assets/image13.png";
 import image14 from "../assets/image14.png";
 import image15 from "../assets/image15.png";
-import image16 from "../assets/image16.png";
+import image16 from "../assets/image16.jpeg";
 
 const Skills = () => {
     const techs = [
@@ -83,7 +83,7 @@ const Skills = () => {
         {
           id: 12,
           src: image16,
-          title: "Photoshop",
+          title: "C/C++",
           style: "shadow-blue-500",
         },
       ];
