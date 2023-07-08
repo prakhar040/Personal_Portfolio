@@ -35,6 +35,10 @@ const Nav = () => {
       id: 7,
       link: "contact",
     },
+    {
+      id: 8,
+      link: "certificates",
+    },
   ];
 
   return (

@@ -7,6 +7,7 @@ import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
 import Contact from "./components/Contact";
+import Certificates from "./components/Certificates";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Experience />
       <Education />
       <Contact />
+      <Certificates />
       <SocMediaLinks />
     </div>
   );
