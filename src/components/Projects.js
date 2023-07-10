@@ -29,10 +29,10 @@ const Projects = () => {
           },
           {
             id: 4,
-            name: "Simon Game Challenge",
+            name: "Resume Builder",
             src: image4,
-            hrefLive: "https://prakhar040.github.io/Simon-Game-Challenge/",
-            hrefCode: "https://github.com/prakhar040/Simon-Game-Challenge",
+            hrefLive: "https://resume-builder-ashy-pi.vercel.app/",
+            hrefCode: "https://github.com/prakhar040/Resume_builder",
           },
         //   {
         //   id: 5,
