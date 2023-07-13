@@ -3,6 +3,7 @@ import image1 from "../assets/image1.png";
 import image2 from "../assets/image2.png";
 import image3 from "../assets/image3.png";
 import image4 from "../assets/image4.png";
+import image30 from "../assets/image30.png";
 
 const Projects = () => {
         const projectsList = [
@@ -34,12 +35,13 @@ const Projects = () => {
             hrefLive: "https://resume-builder-ashy-pi.vercel.app/",
             hrefCode: "https://github.com/prakhar040/Resume_builder",
           },
-        //   {
-        //   id: 5,
-        //   name: "",
-        //   hrefLive: "",
-        //   hrefCode: "",
-        // },
+          {
+          id: 5,
+          name: "E-Commerce Website",
+          src: image30,
+          hrefLive: "https://e-commerce-seven-flax.vercel.app/",
+          hrefCode: "https://github.com/prakhar040/E_commerce",
+        },
         // {
         //   id: 6,
         //   name: "",
