@@ -46,7 +46,7 @@ const Experience = () => {
               <img
                 src={src}
                 alt=""
-                className="rounded-t-md h-60 w-64 "
+                className="rounded-t-md  exp "
               />
               <p className="bg-gray-900  font-semibold text-sm">{name}</p>
               <p className="bg-gray-900  font-semibold text-sm">{post}</p>
