@@ -1,6 +1,7 @@
 import React from 'react';
 import image17 from "../assets/image17.jpg";
 import image18 from "../assets/image18.jpg";
+import image31 from "../assets/image31.jpg";
 
 const Experience = () => {
     const experienceList=[
@@ -21,6 +22,7 @@ const Experience = () => {
         {
             id: 3,
             name: "Unique Identification Authority of India",
+            src: image31,
             post: "Research and Development Intern",
             duration: "Jun 2023-Jul 2023"
         },
